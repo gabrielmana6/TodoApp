@@ -1,0 +1,49 @@
+**Definição do Projeto Desenvolvido no Curso de Lógica de Programação
+
+Todo App
+
+Descrição: Aplicação para o gerenciamento de projetos e as tarefas envolvidas nesse projeto.
+
+Objetivo: Resolver a questão de organização de tarefas de um ou vários projetos.
+
+
+*Requisitos do projeto:
+
+Entidades:
+
+ - Projeto;
+	- Nome
+	- Descrição
+	- Data de criação
+	- Data de atualização
+ - Tarefa;
+	- Nome
+	- Descrição
+	- Status
+	- Observações
+	- Prazo
+	- Data de criação
+	- Data de atualização
+
+Requisitos:
+
+ - Permitir criar o Projeto;
+ - Permitir alterar o Projeto;
+ - Permitir deletar o Projeto;
+
+ - Permitir o cadastro de tarefas;
+ - Permitir alterar a Tarefa;
+ - Permitir deletar a Tarefa;
+
+
+*Regras de negócio:
+
+ - Não irá conter um sistema de login;
+ - Não haverá o conceito de usuário;
+ - Toda tarefa deve pertencer a um projeto;
+
+
+*Definição da tecnologia:
+
+ - Java 8;
+ - MySql
