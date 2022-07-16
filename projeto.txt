@@ -19,7 +19,7 @@ Entidades:
  - Tarefa;
 	- Nome
 	- Descrição
-	- Status
+	- Completed
 	- Observações
 	- Prazo
 	- Data de criação
