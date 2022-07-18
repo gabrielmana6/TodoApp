@@ -110,7 +110,7 @@
         <Component class="javax.swing.JLabel" name="jLabelToolBarSave">
           <Properties>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Users\Gabriel Manass&#xe9;s\Desktop\TodoApp\TodoApp\src\main\resources\check.png"/>
+              <Image iconType="3" name="/check.png"/>
             </Property>
           </Properties>
           <Events>

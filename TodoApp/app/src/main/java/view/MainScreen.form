@@ -144,7 +144,7 @@
               <Color blue="ff" green="ff" red="ff" type="rgb"/>
             </Property>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Users\Gabriel Manass&#xe9;s\Desktop\TodoApp\TodoApp\src\main\resources\tick.png"/>
+              <Image iconType="3" name="/tick.png"/>
             </Property>
             <Property name="text" type="java.lang.String" value=" Todo App"/>
           </Properties>
@@ -214,7 +214,7 @@
         <Component class="javax.swing.JLabel" name="jLabelProjectsAdd">
           <Properties>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Users\Gabriel Manass&#xe9;s\Desktop\TodoApp\TodoApp\src\main\resources\add.png"/>
+              <Image iconType="3" name="/add.png"/>
             </Property>
           </Properties>
           <Events>
@@ -275,7 +275,7 @@
         <Component class="javax.swing.JLabel" name="jLabelTasksAdd">
           <Properties>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Users\Gabriel Manass&#xe9;s\Desktop\TodoApp\TodoApp\src\main\resources\add.png"/>
+              <Image iconType="3" name="/add.png"/>
             </Property>
           </Properties>
           <Events>
@@ -404,7 +404,7 @@
               <Properties>
                 <Property name="horizontalAlignment" type="int" value="0"/>
                 <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                  <Image iconType="2" name="C:\Users\Gabriel Manass&#xe9;s\Desktop\TodoApp\TodoApp\src\main\resources\lists.png"/>
+                  <Image iconType="3" name="/lists.png"/>
                 </Property>
               </Properties>
             </Component>
